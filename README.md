@@ -5,5 +5,5 @@
 </div>
 
 <div>  
-  <img height= "144cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTEV40&layout=compact&theme=monokai">
+  <img height= "144cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTEV40&layout=compact&langs_count=16&theme=monokai">
 </div>
