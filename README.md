@@ -1,9 +1,9 @@
 ### Olá, sou Estêvão Sousa
 
 <div align="center">
-    <a href="https://github.com/EST3V40">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EST3V40&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EST3V40&layout=compact&langs_count=7&theme=radical"/>
+    <a href="https://github.com/ESTEV40">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ESTEV40&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTEV40&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
