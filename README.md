@@ -8,7 +8,7 @@
 
 
 
-###Tecnologias que Estudo e Utilizo:
+### Tecnologias que Estudo e Utilizo:
 
 <div display = "inline-block">
     <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40"/>
