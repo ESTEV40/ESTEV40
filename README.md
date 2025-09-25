@@ -32,6 +32,6 @@
 
 ### Conheça minhas Redes!
 <div>
-    <a href="https://www.linkedin.com/in/esvieira/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href= "https://www.reddit.com/user/Hauaos/" target="blank"><img src= "https://img.shields.io/badge/reddit-orange?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500&color=%23FF4500"></img></a>
+    <a href="https://www.linkedin.com/in/esvieira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href= "https://www.reddit.com/user/Hauaos/" target="_blank"><img src= "https://img.shields.io/badge/reddit-orange?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500&color=%23FF4500"></img></a>
 </div>
